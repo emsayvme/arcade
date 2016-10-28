@@ -1,0 +1,25 @@
+
+
+#juego{
+	
+	width:600px;
+	height:600px;
+	position: relative;
+	background: red;
+
+
+
+}
+
+.pieza{
+	width:200px;
+	height:200px ;
+	border: 2px solid black;
+	position:absolute;
+	background-position: center;
+	background-size: cover;
+	background-color: blue;
+
+}
+
+
